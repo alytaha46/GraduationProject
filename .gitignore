@@ -1,0 +1,4 @@
+/savedModel/finalized_model.sav
+/savedModel/X_test.sav
+/savedModel/y_test.sav
+/savedModel/tfidf.sav
